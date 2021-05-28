@@ -1,2 +1,2 @@
 # at yarisi bilgi girisi
- babam istedi, gelistirilecek, joker degil jokey
+ At ve yaris bilgilerini elle kaydetmek ve sonra sorgulamak icin yazilmis gorsel arayuzlu program. Babam istedi, gelistirilecek. Joker degil jokey
