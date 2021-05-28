@@ -1,3 +1,3 @@
 # at yarisi bilgi girisi
   Joker degil jokey.
-  pyqt5, sqlite
+  pyqt5, sqlite3
